@@ -13,6 +13,7 @@ docs/profile.md                — постоянная информация: а
 docs/medications.md            — лекарства и добавки, которые принимаю
 docs/ankylosing-spondylitis.md — болезнь Бехтерева: чем лечат, вопросы врачу
 docs/bekhterev-lifestyle.md    — болезнь Бехтерева: что можно и что нельзя
+docs/bekhterev-practice.md     — болезнь Бехтерева: практические ситуации
 docs/doctors.md                — врачи и клиники, контакты
 templates/                     — шаблоны, чтобы не придумывать формат каждый раз
 ```
